@@ -13,7 +13,7 @@ A webapp designed to generate a Team Profile based on user input using the inqui
 https://bebo96.github.io/team-profile-generator/
 
 ## Walkthrough Video 
-![Alt text](./assets/team-profile-generator-walkthrough-video.mov "Team Profile Generator Video")
+[![Watch the video](https://img.youtube.com/vi/vao1Q9ciCuk/maxresdefault.jpg)](https://youtu.be/vao1Q9ciCuk)
 
 ## Contribution
 Made with ❤️ by BEBO
